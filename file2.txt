@@ -1,0 +1,8 @@
+modify the existing file
+vi file1.txt
+modified the line
+escape
+:wq
+git status
+git commit -a -m "modified the file"
+git status
