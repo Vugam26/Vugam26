@@ -1,0 +1,3 @@
+git rm file1.txt means deletes from locla and WD.
+ git rm --cached file1.txt means removed from local not from WD.
+
