@@ -1,0 +1,7 @@
+create a new file
+vi file1.txt
+git add file1.txt
+git status
+git commit -m "created first file"
+git status
+
